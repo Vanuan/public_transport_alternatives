@@ -14,6 +14,7 @@ Other
 * EasyWay http://www.eway.in.ua/
 * Транспорт Тернопіля http://detransport.com.ua/
 * Городской Диспетчерский Центр Днепропетровска http://transit.in.ua/
+* Як доїхати (Польша) http://jakdojade.pl/
 
 
 GPS monitoring vendors
