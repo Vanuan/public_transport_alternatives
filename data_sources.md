@@ -15,6 +15,7 @@ Other
 * Транспорт Тернопіля http://detransport.com.ua/
 * Городской Диспетчерский Центр Днепропетровска http://transit.in.ua/
 * Як доїхати (Польша) http://jakdojade.pl/
+* WikiRoutes http://wikiroutes.info/en/
 
 
 GPS monitoring vendors
