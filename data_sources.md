@@ -33,3 +33,10 @@ GPS monitoring vendors
 * Робософт,http://gps-soft.com/,Днепропетровск
 * Дисайд Лтд,http://desyde.ua/,Черновцы
 * ТОВ "Системний зв'язок" (Треклам),http://tracklam.com/ http://szvk.te.ua/,Тернополь
+
+
+Open Source Public Transport systems
+----
+
+* https://github.com/PowerPan/OPTIS
+* https://github.com/OpendataCH/Transport
