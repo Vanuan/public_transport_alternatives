@@ -8,6 +8,11 @@ GTFS
 * GTFS data exchange http://www.gtfs-data-exchange.com/
 
 
+Openstreetmap
+-------------
+
+* http://www.openpublictransport.org/
+
 Other
 -----
 
