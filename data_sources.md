@@ -18,6 +18,7 @@ Other
 * WikiRoutes http://wikiroutes.info/en/
 * Общественный транспорт города Рязани онлайн http://bus62.ru/
 * Transportoid (Польша) http://transportoid.com/
+* "API Портала общественного транспорта Санкт-Петербурга" http://transport.orgp.spb.ru/
 
 GPS monitoring vendors
 ---
