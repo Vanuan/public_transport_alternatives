@@ -1,5 +1,6 @@
 Name,URL,Opensource?,MapUsed,Location
 Транспорт Томска,https://play.google.com/store/apps/details?id=com.micdm.transportlive,Yes,OSM,Томск
+SPB Bus Hound,https://play.google.com/store/apps/details?id=com.emal.android.transport.spb,Yes,Google,Spb
 Де транспорт Тернополя,https://play.google.com/store/apps/details?id=ua.com.detransport,No,OSM,Тернополь
 Smart Transport,https://play.google.com/store/apps/details?id=ru.bus62.SmartTransport,No,OSM,Рязань/Россия
 EasyWay public transport,https://play.google.com/store/apps/details?id=com.eway,No,Google,Ukraine/Russia/Moldova/Bulgaria/Croatia
