@@ -17,7 +17,7 @@ Other
 * Як доїхати (Польша) http://jakdojade.pl/
 * WikiRoutes http://wikiroutes.info/en/
 * Общественный транспорт города Рязани онлайн http://bus62.ru/
-
+* Transportoid (Польша) http://transportoid.com/
 
 GPS monitoring vendors
 ---
