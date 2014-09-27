@@ -21,6 +21,8 @@ Other
 GPS monitoring vendors
 ---
 
-*  M2M Hosting,http://gortrans.gps-tracker.com.ua/,Сумы
-*  BenishGPS,http://www.benishgps.com/ua,Одесса
-*  Робософт,http://gps-soft.com/,Днепропетровск
+* M2M Hosting,http://gortrans.gps-tracker.com.ua/,Сумы
+* BenishGPS,http://www.benishgps.com/ua,Одесса
+* Робософт,http://gps-soft.com/,Днепропетровск
+* Дисайд Лтд,http://desyde.ua/,Черновцы
+* Треклам,http://tracklam.com/,Тернополь
