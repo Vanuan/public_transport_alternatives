@@ -40,3 +40,4 @@ Open Source Public Transport systems
 
 * https://github.com/PowerPan/OPTIS
 * https://github.com/OpendataCH/Transport
+* Transitmix (Planner) https://github.com/codeforamerica/transitmix
