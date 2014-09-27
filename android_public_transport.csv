@@ -1,8 +1,9 @@
 Name,URL,Opensource?,MapUsed,Location
-EasyWay public transport,https://play.google.com/store/apps/details?id=com.eway,No,Google,Ukraine/Russia/Moldova/Bulgaria/Croatia
-Маршрутки,https://play.google.com/store/apps/details?id=ua.com.marshrutki,No,Google,Харьков
-Де транспорт Тернополя,https://play.google.com/store/apps/details?id=ua.com.detransport,No,OSM,Тернополь
-Transport,https://play.google.com/store/apps/details?id=tuba.utils.freetraffic,No,Google,Dnepropetrovsk/Sumy/Lutsk/Kazan
 Транспорт Томска,https://play.google.com/store/apps/details?id=com.micdm.transportlive,Yes,OSM,Томск
+Де транспорт Тернополя,https://play.google.com/store/apps/details?id=ua.com.detransport,No,OSM,Тернополь
 Smart Transport,https://play.google.com/store/apps/details?id=ru.bus62.SmartTransport,No,OSM,Рязань/Россия
+EasyWay public transport,https://play.google.com/store/apps/details?id=com.eway,No,Google,Ukraine/Russia/Moldova/Bulgaria/Croatia
 Яндекс.Транспорт,https://play.google.com/store/apps/details?id=ru.yandex.yandexbus,No,Yandex,Россия
+Маршрутки,https://play.google.com/store/apps/details?id=ua.com.marshrutki,No,Google,Харьков
+Транспорт Томска,https://play.google.com/store/apps/details?id=com.scytheltd.BusTrack,No,Google,Томск
+Transport,https://play.google.com/store/apps/details?id=tuba.utils.freetraffic,No,Google,Dnepropetrovsk/Sumy/Lutsk/Kazan
