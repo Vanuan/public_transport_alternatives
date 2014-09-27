@@ -16,6 +16,7 @@ Other
 * Городской Диспетчерский Центр Днепропетровска http://transit.in.ua/
 * Як доїхати (Польша) http://jakdojade.pl/
 * WikiRoutes http://wikiroutes.info/en/
+* Общественный транспорт города Рязани онлайн http://bus62.ru/
 
 
 GPS monitoring vendors
