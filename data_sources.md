@@ -26,4 +26,4 @@ GPS monitoring vendors
 * BenishGPS,http://www.benishgps.com/ua,Одесса
 * Робософт,http://gps-soft.com/,Днепропетровск
 * Дисайд Лтд,http://desyde.ua/,Черновцы
-* Треклам,http://tracklam.com/,Тернополь
+* ТОВ "Системний зв'язок" (Треклам),http://tracklam.com/ http://szvk.te.ua/,Тернополь
